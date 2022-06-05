@@ -108,6 +108,10 @@ dep-graph.png
 build/
 backend/worker.*
 
-#scripts
+# Scripts
 updateContributors.js
 removeDupes.js
+
+# Tauri
+src-tauri/target/
+src-tauri/WixTools
